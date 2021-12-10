@@ -1,0 +1,23 @@
+{
+  "name": "kevin squib",
+  "symbol": "",
+  "image": "1.png",
+  "collection": {
+    "name": "The Squibs",
+    "family": "kyuan.sol"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "1.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BhhineHq1jZCND6cY7JUCR258X5CGhnd7mZW1dJ7W2sy",
+        "share": 100
+      }
+    ]
+  }
+}

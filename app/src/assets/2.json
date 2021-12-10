@@ -1,0 +1,23 @@
+{
+  "name": "marissa squib",
+  "symbol": "",
+  "image": "2.png",
+  "collection": {
+    "name": "The Squibs",
+    "family": "kyuan.sol"
+  },
+  "properties": {
+    "files": [
+      {
+        "uri": "2.png",
+        "type": "image/png"
+      }
+    ],
+    "creators": [
+      {
+        "address": "BhhineHq1jZCND6cY7JUCR258X5CGhnd7mZW1dJ7W2sy",
+        "share": 100
+      }
+    ]
+  }
+}
